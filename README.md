@@ -1,16 +1,15 @@
-## Hi there 👋
+# 김두환의 Github
 
-<!--
-**hihiimdootan/hihiimdootan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 콘텐츠 목록
+- [VR](#폴리텍 화재안전, 청각장애인 소통)
+- [AR](#슈팅 게임, 뮤직 포스터)
+- [Unity](#2D, 3D 러너 게임)
+- [Unreal](#종스크롤 슈팅 게임)
 
-Here are some ideas to get you started:
+## 프로젝트 개요
+VR, AR, 슈팅, 러닝, 언리얼 게임을 제작했습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 개발자로서 목표
+1. 
+2. 친숙한 UI/UX로 사용자 몰입도 극대화한 콘텐츠 제작
+3. 의료, 산업안전 등 다양한 분야 VR, AR 콘텐츠 보급
